@@ -1,0 +1,89 @@
+*
+{
+   margin: 0%;
+}
+header
+{
+   background-image:url("https://cursosformacion.b-cdn.net/wp-content/uploads/2021/12/curso-de-Programacion-Orientada-a-Objetos.jpg");
+   color: white;
+   height: 300px;
+   display: block;
+   margin: auto;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   font-family: monospace;
+   
+}
+#titulo
+{
+   text-align: center;
+   width: 600px;
+   padding-top: 25px;
+   font-size: 80px;
+
+}
+#cabecera
+{
+   width: 600px;
+   height: 100px;
+   text-align: justify;
+   margin: 25px;
+   font-size: larger;
+}
+section
+{
+   background-image: url("https://i.pinimg.com/originals/4c/bb/4f/4cbb4f057445dd4e3b61c1124e59852d.jpg");
+   width: 80%;
+   background-size: cover;
+   float: left;
+   height: 70%;
+   margin: 15px;
+   padding: 15px;
+   text-align: justify;
+   font-size: medium;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   margin-left: 10%;
+   
+
+   
+}
+aside
+{
+   text-align: left;
+   text-decoration: solid;
+   color: aliceblue;
+   font-style: oblique;
+}
+img
+{
+   width: 700px;
+   height: 400px;
+   
+}
+
+body
+{
+   background-image: url("https://img.freepik.com/vector-gratis/fondo-geometrico-plano_23-2148967370.jpg?w=2000");
+   background-repeat: no-repeat;
+   background-size: cover;
+
+
+}
+#video
+{
+   width: 600px;
+   height: auto;
+   display: block;
+   margin: auto;
+}
+footer
+{
+   background-color:#3676ff;
+   background-color: #ffd26f;
+   width: 100%;
+   float: left;
+   height: 50px;
+   color: rgb(53, 56, 208);
+   text-align: center;   
+}

@@ -1,0 +1,85 @@
+*
+{
+    margin: 0%;
+}
+header
+{
+    background-image: url("https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2020/09/lenguaje-programacion-c-2059673.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    background-position:center left;
+    
+}
+body
+{
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-acuarela_220290-34.jpg?w=2000");
+    
+}
+h1
+{
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+p
+{
+    font-size: medium;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+section
+{
+    width: 650px;
+    height: auto;
+    margin: 25px;
+}
+img
+{
+    width: 250px;
+    height: 150px;
+    outline-style: groove;
+    outline-color: rgb(240, 242, 243);
+    margin: 15px;
+    padding: 15px;
+}
+video
+{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin: 15px;
+    
+}
+nav
+{
+    float: right;
+    width: 30%;
+    height: 700px;
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+footer
+{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+h2 
+{
+    color: aliceblue;
+}
+#texto
+{
+    width: 930px;
+}
+#estructura
+{
+    display: block;
+    margin: auto;
+}

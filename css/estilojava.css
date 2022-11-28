@@ -1,0 +1,41 @@
+*
+{
+   margin: 0%;
+}
+header
+{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 80px;
+   color: #ffa500;
+   text-align: center;
+
+}
+body
+{
+    background-image: url("https://blog.facialix.com/wp-content/uploads/2022/07/90078629.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    margin-left: 10%;
+}
+section
+{
+    background-color: white;
+    width: 80%;
+    height: auto;
+    font-size: medium;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    margin: 15px;
+    padding: 15px;
+    
+}
+footer
+{
+    text-align: center;
+    background-color: darkorange;
+    width: 80%;
+    margin: 15px;
+    padding: 15px;
+}

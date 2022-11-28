@@ -1,0 +1,53 @@
+body
+{
+    background-image: url("https://st4.depositphotos.com/1001411/25270/i/600/depositphotos_252707178-stock-photo-pastel-paper-geometric-background.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+header
+{
+    text-align: center;
+    color:#957dad;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin: 5%;
+}
+nav
+{
+    text-align: center;
+    color:#0e0f0f;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+video
+{
+    width: 300px;
+    height: 300px;
+}
+section
+{
+    background-color:#b9d6f3 ;
+    width: 80%;
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    margin: auto;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.5px;
+
+}
+h2
+{
+    color: #957dad;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+footer
+{
+    background-color: darkturquoise;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
